@@ -110,9 +110,23 @@ This plugin was developed for research in Advanced Air Mobility (AAM) and air tr
 - Air traffic density stress testing
 - Controller-pilot evaluation studies
 
+## Citation
+
+If you use this work or find it helpful, we will be happy if you cite us! : (bibtex below)
+
+@inproceedings{su2025flight,
+  title={A Flight Simulator Software for Visualization of 3-Dimensional Airspaces and Air Traffic Management},
+  author={Su, William and Kam, Jordan and Bulusu, Dr Vishwanath},
+  booktitle={2025 Regional Student Conferences},
+  pages={97940},
+  year={2025}
+}
+
 ## Acknowledgments
 
 - Uses [OpenAIR Parser](https://github.com/openAIP/openaip-openair-parser) for OpenAIR to GeoJSON conversion
 - Built with X-Plane SDK 2.1.3 (XPLM303)
 - Airspace data sourced from [OpenAIP](https://www.openaip.net/)
+
+
 
