@@ -1,0 +1,3 @@
+[submodule "openaip-openair-parser"]
+	path = openaip-openair-parser
+	url = https://github.com/openAIP/openaip-openair-parser.git

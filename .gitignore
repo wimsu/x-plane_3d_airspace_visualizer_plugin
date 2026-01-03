@@ -1,0 +1,43 @@
+# Build artifacts
+*.xpl
+*.o
+*.dylib
+*.so
+*.dll
+*.a
+
+# Output directory (uncomment to ignore all build outputs)
+# output/
+# Note: To track a specific working version, use: git add -f output/airspace_visualizer_mac.xpl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+build/
+DerivedData/
+
+# Node modules (openaip parser)
+openaip-openair-parser/node_modules/
+openaip-openair-parser/package-lock.json
+
+# Large generated files (optional - uncomment if you don't want to track GeoJSON)
+# *.geojson
+# data/*.geojson
+
+# SDK (should be downloaded separately)
+# Uncomment if you don't want to include SDK in repo
+# SDK/
+# SDK\ 411/
+
