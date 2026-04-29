@@ -9,5 +9,5 @@ This directory contains the built plugin
 Copy the `.xpl` file to your X-Plane plugins directory:
 
 ```
-X-Plane/Resources/plugins/airspace_visualizer_plugin/airspace_visualizer_mac.xpl
+X-Plane/Resources/plugins/airspace_visualizer_plugin/mac.xpl
 ```
