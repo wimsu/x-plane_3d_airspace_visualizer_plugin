@@ -2,7 +2,7 @@
 
 This directory contains the built plugin
 
-- `airspace_visualizer_mac.xpl` - Compiled plugin for macOS (x86_64)
+- `mac.xpl` - Compiled plugin for macOS (x86_64)
 
 ## Installation
 
