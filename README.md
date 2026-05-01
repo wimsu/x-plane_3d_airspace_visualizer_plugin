@@ -30,7 +30,7 @@ A flight simulator plugin for visualization of 3-dimensional controlled airspace
 
 ```bash
 mkdir -p output
-clang++ -arch x86_64 -std=c++17 -fPIC -shared -o output/airspace_visualizer_mac.xpl \
+clang++ -arch x86_64 -std=c++17 -fPIC -shared -o output/mac.xpl \
     -I./SDK/CHeaders \
     -I./SDK/CHeaders/XPLM \
     -I/usr/local/include/json-c \
